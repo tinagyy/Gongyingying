@@ -1,0 +1,15 @@
+1518193198934	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518193198949	geckodriver	INFO	Listening on 127.0.0.1:3373
+1518193199489	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Mu4yZiQsgMyh"
+1518193206878	Marionette	INFO	Enabled via --marionette
+1518193208808	Marionette	INFO	Listening on port 3379
+1518193208875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%BA%93&json=1&p=3&sid=1466_12896_21109_18559&req=2&csor=1&cb=jQuery110205443561178777379_1518193220501&_=1518193220503, line 1: TypeError: jQuery110205443561178777379_1518193220501 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%BA%93%E9%87%8C&json=1&p=3&sid=1466_12896_21109_18559&req=2&csor=2&pwd=%E5%BA%93&cb=jQuery110205443561178777379_1518193220501&_=1518193220504, line 1: TypeError: jQuery110205443561178777379_1518193220501 is not a function
+not a function
+[Parent 5300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+46
+_1518192176367&_=1518192176370, line 1: TypeError: jQuery11020413012086108704_1518192176367 is not a function
+[Parent 4512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
