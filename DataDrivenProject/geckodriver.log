@@ -1,0 +1,25 @@
+1518019662623	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518019662640	geckodriver	INFO	Listening on 127.0.0.1:8810
+1518019662995	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.XuOC5tdMBpCk"
+1518019664707	Marionette	INFO	Enabled via --marionette
+1518019667161	Marionette	INFO	Listening on port 8815
+1518019667450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%82%93&json=1&p=3&sid=1462_21086_20718&req=2&csor=1&cb=jQuery110201793700402474271_1518019668098&_=1518019668100, line 1: TypeError: jQuery110201793700402474271_1518019668098 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%82%93%E8%82%AF&json=1&p=3&sid=1462_21086_20718&req=2&csor=2&pwd=%E9%82%93&cb=jQuery110201793700402474271_1518019668098&_=1518019668101, line 1: TypeError: jQuery110201793700402474271_1518019668098 is not a function
+channel_win.cc, line 346
+52, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ne 346
+[Child 8220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+cko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ for id: telemetry_modules_ping
+1518013766509	geckodriver::marionette	ERROR	Failed to kill browser process
+d/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 8160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
